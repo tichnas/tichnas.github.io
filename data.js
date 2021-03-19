@@ -12,7 +12,7 @@ let data;
     resume:
       'https://drive.google.com/file/d/1UoGwSmKeJQwybdtnFiEzsrmSRYv5nRrL/view?usp=sharing',
     about: [
-      `an 18-year-old sophomore pursuing my B.Tech. from IIIT Hyderabad in Computer Science and Engineering. I often go by the name of "tichnas" in online communities.`,
+      `a 19-year-old sophomore pursuing my B.Tech. from IIIT Hyderabad in Computer Science and Engineering. I often go by the name of "tichnas" in online communities.`,
       `...and, I'm an introvert. Believe me, writing this section took more time than coding up the rest of the website. I hope to overcome this problem soon. Wish me luck.`,
     ],
   };
@@ -22,6 +22,8 @@ let data;
     { name: 'CSS/SASS', level: 85 },
     { name: 'React JS', level: 80 },
     { name: 'React Native', level: 75 },
+    { name: 'ML / AI', level: 60 },
+    { name: 'Django', level: 80 },
     { name: 'Express.js', level: 80 },
     { name: 'C/C++', level: 85 },
     { name: 'MySQL', level: 60 },
@@ -38,6 +40,7 @@ let data;
       image: './img/Classity.png',
       about:
         'Platform to allow instructors from all over the world to create and teach courses. Students can enrol those courses and learn through them',
+      code: 'https://github.com/Domino-Developers/Classity',
       view: 'https://classity-v09.herokuapp.com/',
     },
     {
